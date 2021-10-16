@@ -1,0 +1,948 @@
+L:\C#_Florina\Engleza\Engleza\Engleza\bin\Debug\Engleza.exe.config
+L:\C#_Florina\Engleza\Engleza\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+L:\C#_Florina\Engleza\Engleza\Engleza\obj\Debug\Engleza.Form1.resources
+L:\C#_Florina\Engleza\Engleza\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+L:\C#_Florina\Engleza\Engleza\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+L:\C#_Florina\Engleza\Engleza\Engleza\bin\Debug\Engleza.exe
+L:\C#_Florina\Engleza\Engleza\Engleza\bin\Debug\Engleza.pdb
+L:\C#_Florina\Engleza\Engleza\Engleza\obj\Debug\Engleza.exe
+L:\C#_Florina\Engleza\Engleza\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Engleza-C#\Engleza\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Engleza-C#\Engleza\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Engleza-C#\Engleza\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.PrimaPagina.resources
+L:\Largonji\Engleza-C#\Engleza\Engleza\bin\Debug\Engleza.exe.config
+L:\Largonji\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.exe
+L:\Largonji\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.pdb
+L:\Largonji\Engleza-C#\Engleza\Engleza\bin\Debug\Engleza.exe
+L:\Largonji\Engleza-C#\Engleza\Engleza\bin\Debug\Engleza.pdb
+L:\Largonji\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+L:\Largonji\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+L:\Largonji\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+L:\Largonji\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+L:\Largonji\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmMain.resources
+L:\Largonji\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmLiving.resources
+L:\Largonji\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmDining.resources
+L:\Largonji\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmHall.resources
+L:\Largonji\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmLibr.resources
+L:\Largonji\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmGym.resources
+L:\Largonji\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmMybed.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmGym.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmLibr.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmMybed.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-C#\Engleza\Engleza\obj\Debug\Engleza.FrmYard.resources
+F:\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.exe.config
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.exe
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.pdb
+F:\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.exe
+F:\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.pdb
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmBath.resources
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmBed.resources
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmDining.resources
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmGym.resources
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmHall.resources
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLibr.resources
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLiving.resources
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLog.resources
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmMain.resources
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmMybed.resources
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmYard.resources
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+F:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmWardobe.resources
+L:\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.exe.config
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.exe
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.pdb
+L:\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.exe
+L:\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.pdb
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmBath.resources
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmBed.resources
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmDining.resources
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmHall.resources
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLibr.resources
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLiving.resources
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLog.resources
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmMain.resources
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmMybed.resources
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmYard.resources
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+L:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+G:\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.exe.config
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.exe
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.pdb
+G:\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.exe
+G:\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.pdb
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmBath.resources
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmBed.resources
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmDining.resources
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmHall.resources
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLibr.resources
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLiving.resources
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLog.resources
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmMain.resources
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmMybed.resources
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmYard.resources
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+G:\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLibr.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmMybed.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLibr.resources
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmMybed.resources
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Desktop\Engleza-FLORINA\Engleza\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+P:\Engleza-FINAL\Engleza\Engleza\bin\Debug\Engleza.exe.config
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.exe
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.pdb
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmBath.resources
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmBed.resources
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmDining.resources
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmHall.resources
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmLibr.resources
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmLiving.resources
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmLog.resources
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmMain.resources
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmMybed.resources
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmPlan.resources
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmYard.resources
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+P:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+L:\Engleza-FINAL\Engleza\Engleza\bin\Debug\Engleza.exe.config
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.exe
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmBath.resources
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmBed.resources
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmDining.resources
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmHall.resources
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmLibr.resources
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmLiving.resources
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmLog.resources
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmMain.resources
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmMybed.resources
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmYard.resources
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+L:\Engleza-FINAL\Engleza\Engleza\bin\Debug\Engleza.exe
+L:\Engleza-FINAL\Engleza\Engleza\bin\Debug\Engleza.pdb
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.pdb
+L:\Engleza-FINAL\Engleza\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+L:\Engleza\Engleza\bin\Debug\Engleza.exe.config
+L:\Engleza\Engleza\bin\Debug\Engleza.exe
+L:\Engleza\Engleza\bin\Debug\Engleza.pdb
+L:\Engleza\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+L:\Engleza\Engleza\obj\Debug\Engleza.FrmBath.resources
+L:\Engleza\Engleza\obj\Debug\Engleza.FrmBed.resources
+L:\Engleza\Engleza\obj\Debug\Engleza.FrmDining.resources
+L:\Engleza\Engleza\obj\Debug\Engleza.FrmHall.resources
+L:\Engleza\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+L:\Engleza\Engleza\obj\Debug\Engleza.FrmLibr.resources
+L:\Engleza\Engleza\obj\Debug\Engleza.FrmLiving.resources
+L:\Engleza\Engleza\obj\Debug\Engleza.FrmLog.resources
+L:\Engleza\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+L:\Engleza\Engleza\obj\Debug\Engleza.FrmMain.resources
+L:\Engleza\Engleza\obj\Debug\Engleza.FrmMybed.resources
+L:\Engleza\Engleza\obj\Debug\Engleza.FrmYard.resources
+L:\Engleza\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+L:\Engleza\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+L:\Engleza\Engleza\obj\Debug\Engleza.exe
+L:\Engleza\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza-Final\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza-Final\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Desktop\Engleza-Final\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.FrmLibr.resources
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.FrmMybed.resources
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Desktop\Engleza-Final\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\engleza gata\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.FrmLibr.resources
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.FrmMybed.resources
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Desktop\engleza gata\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\engleza gata\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Desktop\engleza gata\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza C#\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.FrmLibr.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.FrmMybed.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.FrmSpanzura.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Engleza C#\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Desktop\Engleza C#\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza C#\Engleza\obj\Debug\Imperiul_Britanic.frmSpanzura.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.FrmLibr.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.FrmMybed.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.FrmSteaguriJoc.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.frmMainS.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.Administrare.resources
+C:\Users\admin\Desktop\Engleza C#--EDITAT\Engleza\obj\Debug\Engleza.Ajutorfrm.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.Administrare.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.Ajutorfrm.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.FrmLibr.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.frmMainS.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.FrmMybed.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.frmCautare.resources
+C:\Users\admin\Desktop\Engleza NU MERGE\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.Administrare.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.Ajutorfrm.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.frmCautare.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.frmMainS.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.FrmMybed.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Engleza NU MERGE - Copie (2)\Engleza\obj\Debug\Engleza.FrmTabel.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Desktop\PROIECT\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Desktop\PROIECT\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.Administrare.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.Ajutorfrm.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.frmCautare.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.frmMainS.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmTabel.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.frmDesen.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.frmRecipe.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.frmDressG.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmKaraoke.resources
+C:\Users\admin\Desktop\PROIECT\Engleza\obj\Debug\Engleza.FrmBib.resources
+G:\English4Kids\Engleza\bin\Debug\Engleza.exe.config
+G:\English4Kids\Engleza\obj\Debug\Engleza.exe
+G:\English4Kids\Engleza\obj\Debug\Engleza.pdb
+H:\English4Kids\Engleza\bin\Debug\Engleza.exe.config
+H:\English4Kids\Engleza\obj\Debug\Engleza.exe
+H:\English4Kids\Engleza\obj\Debug\Engleza.pdb
+H:\English4Kids\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+H:\English4Kids\Engleza\obj\Debug\Engleza.Administrare.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.Ajutorfrm.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmBath.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmBed.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmBib.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.frmCautare.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.frmDesen.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmDining.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.frmDressG.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmHall.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmKaraoke.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmLiving.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmLog.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmMain.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.frmMainS.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.frmRecipe.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmTabel.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.FrmYard.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+H:\English4Kids\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+H:\English4Kids\Engleza\bin\Debug\Engleza.exe
+H:\English4Kids\Engleza\bin\Debug\Engleza.pdb
+H:\English4Kids\Engleza\obj\Debug\Interop.WMPLib.dll
+H:\English4Kids\Engleza\obj\Debug\AxInterop.WMPLib.dll
+H:\English4Kids\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+H:\English4Kids\Engleza\bin\Debug\Interop.ShockwaveFlashObjects.dll
+H:\English4Kids\Engleza\bin\Debug\Interop.WMPLib.dll
+H:\English4Kids\Engleza\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\English4Kids\Engleza\bin\Debug\AxInterop.WMPLib.dll
+H:\English4Kids\Engleza\obj\Debug\Interop.ShockwaveFlashObjects.dll
+H:\English4Kids\Engleza\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+L:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\Engleza.exe.config
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Interop.ShockwaveFlashObjects.dll
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.exe
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.pdb
+L:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\Engleza.exe
+L:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\Engleza.pdb
+L:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\Interop.ShockwaveFlashObjects.dll
+L:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Administrare.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Ajutorfrm.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBath.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBed.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBib.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmCautare.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmDesen.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmDining.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmDressG.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmHall.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmKaraoke.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLiving.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLog.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmMain.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMainS.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmRecipe.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmTabel.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmYard.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBibliografie.resources
+L:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMessageBox.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\Engleza.exe.config
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Interop.ShockwaveFlashObjects.dll
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Interop.WMPLib.dll
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\AxInterop.WMPLib.dll
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.exe
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.pdb
+H:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\Engleza.exe
+H:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\Engleza.pdb
+H:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\Interop.ShockwaveFlashObjects.dll
+H:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\Interop.WMPLib.dll
+H:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\AxInterop.WMPLib.dll
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Administrare.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Ajutorfrm.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBath.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBed.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBib.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBibliografie.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmCautare.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmDesen.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmDining.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmDressG.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmHall.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmKaraoke.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLiving.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLog.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmMain.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMainS.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMessageBox.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmRecipe.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmTabel.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmYard.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+H:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmAbout.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\Engleza.exe.config
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.exe
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.pdb
+F:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\Engleza.exe
+F:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\Engleza.pdb
+F:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\English4Kids\English-4-Kids-software-\Engleza\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Administrare.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Ajutorfrm.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmAbout.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBath.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBed.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBib.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBibliografie.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmCautare.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmDesen.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmDining.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmDressG.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmHall.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmKaraoke.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLiving.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLog.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmMain.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMainS.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMessageBox.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmRecipe.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmTabel.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmYard.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+F:\English4Kids\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Administrare.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Ajutorfrm.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmAbout.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBib.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBibliografie.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmCautare.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmDesen.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmDressG.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmKaraoke.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMainS.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMessageBox.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmRecipe.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmTabel.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Desktop\English4Kids-flori\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Administrare.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmAbout.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBibliografie.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmCautare.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmDesen.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmDressG.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmKaraoke.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMainS.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmRecipe.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmTabel.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmCifre.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmClock.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMessageBoxYesNo.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMessageboxOk.resources
+C:\Users\admin\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmAjutor.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Interop.WMPLib.dll
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.exe
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.pdb
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Administrare.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmAjutor.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmAbout.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBibliografie.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmCautare.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmCifre.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmClock.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmDesen.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmDressG.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmKaraoke.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMainS.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMessageBoxYesNo.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmMessageboxOk.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmRecipe.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmTabel.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\bin\Debug\Engleza.exe
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\bin\Debug\Engleza.pdb
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\bin\Debug\Interop.WMPLib.dll
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Teodora Mezei\Desktop\EUUU\English-4-Kids-software-\Engleza\bin\Debug\AxInterop.WMPLib.dll
+F:\English-4-Kids-software-fara karaoke\Engleza\bin\Debug\Engleza.exe.config
+F:\English-4-Kids-software-fara karaoke\Engleza\bin\Debug\Engleza.exe
+F:\English-4-Kids-software-fara karaoke\Engleza\bin\Debug\Engleza.pdb
+F:\English-4-Kids-software-fara karaoke\Engleza\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\English-4-Kids-software-fara karaoke\Engleza\bin\Debug\Interop.WMPLib.dll
+F:\English-4-Kids-software-fara karaoke\Engleza\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\English-4-Kids-software-fara karaoke\Engleza\bin\Debug\AxInterop.WMPLib.dll
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Interop.WMPLib.dll
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\AxInterop.WMPLib.dll
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.Administrare.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmAjutor.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmAbout.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBath.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBed.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBibliografie.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmCautare.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmCifre.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmClock.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmDesen.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmDining.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmDressG.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmHall.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmKaraoke.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmLiving.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmLog.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmMain.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmMainS.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmMessageBoxYesNo.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmMessageboxOk.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmRecipe.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmTabel.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmYard.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.exe
+F:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.pdb
+G:\English-4-Kids-software-fara karaoke\Engleza\bin\Debug\Engleza.exe.config
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Interop.WMPLib.dll
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\AxInterop.WMPLib.dll
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.exe
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.pdb
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.Administrare.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmAjutor.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmAbout.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBath.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBed.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBibliografie.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmCautare.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmCifre.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmClock.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmDesen.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmDining.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmDressG.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmHall.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmKaraoke.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmLiving.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmLog.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmMain.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmMainS.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmMessageBoxYesNo.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmMessageboxOk.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmRecipe.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmTabel.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmYard.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+G:\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.Administrare.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmAjutor.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmAbout.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBibliografie.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmCautare.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmCifre.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmClock.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmDesen.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmDressG.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmKaraoke.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmMainS.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmMessageBoxYesNo.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmMessageboxOk.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmRecipe.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmTabel.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Desktop\English-4-Kids-software-fara karaoke\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Gataaaaa\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Gataaaaa\Engleza\bin\Debug\Engleza.exe
+C:\Users\admin\Desktop\Gataaaaa\Engleza\bin\Debug\Engleza.pdb
+C:\Users\admin\Desktop\Gataaaaa\Engleza\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\Gataaaaa\Engleza\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.Administrare.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmAjutor.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmAbout.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmBath.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmBed.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmBibliografie.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.frmCautare.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmCifre.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.frmClock.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.frmDesen.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmDining.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.frmDressG.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmHall.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmKaraoke.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmLiving.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmLog.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmMain.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.frmMainS.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.frmMessageBoxYesNo.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.frmMessageboxOk.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.frmRecipe.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmTabel.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.FrmYard.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+C:\Users\admin\Desktop\Gataaaaa\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+G:\English4Kids\Engleza\obj\Debug\Interop.WMPLib.dll
+G:\English4Kids\Engleza\obj\Debug\AxInterop.WMPLib.dll
+G:\English4Kids\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+G:\English4Kids\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+G:\English4Kids\Engleza\obj\Debug\Engleza.Administrare.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmAjutor.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmAbout.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmBath.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmBed.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmBibliografie.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.frmCautare.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmCifre.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.frmClock.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.frmDesen.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmDining.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.frmDressG.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmHall.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmLiving.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmLog.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmMain.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.frmMainS.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.frmMessageBoxYesNo.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.frmMessageboxOk.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.frmRecipe.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmTabel.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.FrmYard.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+G:\English4Kids\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+G:\English4Kids\Engleza\bin\Debug\Engleza.exe
+G:\English4Kids\Engleza\bin\Debug\Engleza.pdb
+G:\English4Kids\Engleza\bin\Debug\Interop.WMPLib.dll
+G:\English4Kids\Engleza\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\English4Kids-Final\Engleza\bin\Debug\Engleza.exe.config
+C:\Users\admin\Desktop\English4Kids-Final\Engleza\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\English4Kids-Final\Engleza\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\English4Kids-Final\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\English4Kids-Final\Engleza\obj\Debug\Engleza.exe
+C:\Users\admin\Desktop\English4Kids-Final\Engleza\obj\Debug\Engleza.pdb
+D:\English4Kids-Final\Engleza\bin\Debug\Engleza.exe.config
+D:\English4Kids-Final\Engleza\obj\Debug\Interop.WMPLib.dll
+D:\English4Kids-Final\Engleza\obj\Debug\AxInterop.WMPLib.dll
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.exe
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.pdb
+D:\English4Kids-Final\Engleza\bin\Debug\Engleza.exe
+D:\English4Kids-Final\Engleza\bin\Debug\Engleza.pdb
+D:\English4Kids-Final\Engleza\bin\Debug\Interop.WMPLib.dll
+D:\English4Kids-Final\Engleza\bin\Debug\AxInterop.WMPLib.dll
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.csprojResolveAssemblyReference.cache
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.Administrare.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmAjutor.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmAbout.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmBath.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmBed.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmBedroomGirl.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmBibliografie.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmBoyBedroom.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.frmCautare.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmCifre.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.frmClock.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.frmDesen.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmDining.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmDressUpBoy.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.frmDressG.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmHall.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmKitchen.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmLiving.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmLog.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmLogOut.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmMain.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.frmMainS.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.frmMessageBoxYesNo.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.frmMessageboxOk.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.frmRecipe.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.frmSpanzura.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmTabel.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.FrmYard.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.Ilustratfrm.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.Properties.Resources.resources
+D:\English4Kids-Final\Engleza\obj\Debug\Engleza.csproj.GenerateResource.Cache
+D:\IT&C\English4Kids-Final\Engleza\bin\Debug\Engleza.exe.config
+D:\IT&C\English4Kids-Final\Engleza\obj\Debug\Interop.WMPLib.dll
+D:\IT&C\English4Kids-Final\Engleza\obj\Debug\AxInterop.WMPLib.dll
+D:\IT&C\English4Kids-Final\Engleza\obj\Debug\Engleza.csproj.ResolveComReference.cache
+D:\IT&C\English4Kids-Final\Engleza\obj\Debug\Engleza.exe
+D:\IT&C\English4Kids-Final\Engleza\obj\Debug\Engleza.pdb
